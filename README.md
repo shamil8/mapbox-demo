@@ -1,5 +1,5 @@
 # mapbox-demo
-
+![img.png](static/img.png)
 ## Project setup
 ```
 yarn install
